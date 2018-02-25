@@ -19,15 +19,15 @@ paradox : language let us write less and less code while we use more and more te
 
 ### We must read a lot of code
 
-knowledge transfert
-error correction
-business evolution
+* knowledge transfert
+* error correction
+* business evolution
 
 ### consider easing the load
 
-express business logic
-write something you want/expect to read
-don't mix level of abstraction (https://codurance.com/2015/01/27/balanced-abstraction-principle/)
-craft convention helps : good naming + little functions
+* express business logic
+* write something you want/expect to read
+* don't mix level of abstraction (https://codurance.com/2015/01/27/balanced-abstraction-principle/)
+* craft convention helps : good naming + little functions
 
 ## We must fight bad habits
