@@ -1,5 +1,13 @@
 # Programmers Are The Worst Readers
 
+Apologies for such a title. The purpose is not to offend you but to draw some attention with a low trick. All I can hope is that this attention just drawn will be put to good use.
+
+Why would such an attention needed ? Because I think the problem I will adress here is one of the most fundamental our indstry is facing today. And if I had to sum the root cause of that problem up, it would be that we are too comfortable in our habits. (familiar with our comfort zone)
+
+Beacuse we are used to read bad written code, used to decypher other's thoughts through low level terse description, we do not make effort to make our own writing better.
+
+But before I dive in those habits and try to highlight them, we need to agree that this extra work is worth the while.
+
 ## Writing understandable code is important
 
 ### Cost of maintenance
