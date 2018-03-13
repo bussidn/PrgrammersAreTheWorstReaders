@@ -18,13 +18,23 @@ The topic today is no exception. We do not want to write good and understandable
 
 We can still easily find papers about the cost of maintenance that comes from the 80's and 90's worrying about the capacity of software to grow steadily. At the time, estimations were made that place the cost of maintenance between 40 and 80 percent of the total cost of the software.
 
-From that time, the need for software developpers have increased tremendously. The trunover and use of external consultants has become the norm and the number of new technologies seems to have no end. In other words, there is little chance the cost of maintenance has reduced since then. It is common to have some very complex business running for decades on old systems and that newly arrived people have to learn both the complexity of the business and the complexity of the software.
+From that time, the need for software developpers have increased tremendously. The turnover and use of external consultants has become the norm and the number of new technologies seems to have no end. In other words, there is little chance the cost of maintenance has reduced since then. It is common to have some very complex business running for decades on old systems and that newly arrived people have to learn both the complexity of the business and the complexity of the software.
 
 This is clearly one of the paradox of our ages : as we try to reduce technological noise with languages that are more and more expressive, we also try to automate more and more things, increasing the weight of that noise.
 
  => Due to long living businesses and long living technologies on which are added an ever growing technological stack, the cost of maintenance is today a critical point on which every competitve company try to improve.
 
 ### We must read a lot of code
+
+Now that we have realized the huge part that the cost of maintenance have these days, the only thing that remains is to be convinced that reading code is an important part of maintenance activity.
+
+That should not be the hardest part for anyone with some experience in the field. For those who want more justification on that point, let me quickly list activities made by programmers during the mintenance phase.
+
+The two main activities are : business evolution and error correction. Both those activities require reading the code a lot.
+
+Error correction is the most obvious, we have to connect any error message, stack log or behavior description with the idea we have about how the code should behave by reading the code. Or worse, by debugging, which is just reading the code very carefully with some state display.
+
+Business evolution 
 
 * knowledge transfert
 * error correction
