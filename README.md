@@ -40,6 +40,12 @@ Some could argue that code knowledge is sufficient to produce a preliminary desi
 
 => The key point here is that reading the code is knowledge transfert.
 
+## 
+
+If 
+
+### We must fight bad habits / We have learned a common language
+### we still don't manage to communicate intent
 ### consider easing the load
 
 * express business logic
@@ -47,7 +53,4 @@ Some could argue that code knowledge is sufficient to produce a preliminary desi
 * don't mix level of abstraction (https://codurance.com/2015/01/27/balanced-abstraction-principle/)
 * craft convention helps : good naming + little functions
 
-## We must fight bad habits
 
-### We have learned a common language 
-### we still don't manage to communicate intent
