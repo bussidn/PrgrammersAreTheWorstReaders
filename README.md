@@ -42,14 +42,14 @@ Some could argue that code knowledge is sufficient to produce a preliminary desi
 
 ## We must fight bad habits
 
-If you've reach this part, you are convinced that the code should be clear. But maybe you think that your code is fine. Ok I don't know you personnaly but I will bet that it is not.
-We will explore some few biases that we're all facing that prevent us from being our own judge.
+If you've reach this part, you are convinced that the code should be clear. But maybe you think that your code is fine. Ok I don't know you personnaly but, if you were never interested in that question, I will bet that it is not. That's fine, we're here to provide some insights.
+We will explore some few biases that we're all facing that prevent us from improving ourselves.
 
 ### we're not equipped to judge ourselves / we fataly understand what we're writing
 
-First bias that is quite obvious : once you're done with your code, you understand it.
-More, once you're done with the code, you should have understood the business you're doing since a long time. Therefore, your mind has already migrated from the question 'What to do?' to 'How to do it ?'
-But remember that the main thing is the What, not the How. It is hard to remember after hours or days of work on how to achieve the goal.
+First bias that is quite obvious : once you're done with your code, you understand it. That may not stand, and six month later you could come back ot it scratching your head. But in the minutes that follow, you are able to explain it if need be.
+More, once you're done with the code, you should have understood the business you've been doing for a long time. Therefore, your mind has already migrated from the question 'What to do?' to 'How to do it ?'
+But remember that the main thing to explain is the **What**, not the **How**. It is hard to remember after hours or days of work on how to achieve the goal.
 
 ### We have learned a common language
 
@@ -60,11 +60,14 @@ For those very familiar with the language, it is no longer a pain to read some l
 
 But if learning is just a phase and after that, we are able to read each other, there should be no issue right ? If so, why is it always so difficult to decypher another one's intention in the code ?
 
-=> Because the bias here is thinking that our programming languages, so expression may they be, are *actually* languages.
+=> Because the bias here is thinking that our programming languages, so expressive may they be, are *actually* languages.
 
 ### we still don't manage to communicate intent
 
-Our languages only possess a few *key words*. All tha vocabulary is business dependend, all the grammar is reinvented with every project, and the way to use that language is pretty much *personnal*.
+The reasons why we 
+Our languages only possess a few *key words*. All the vocabulary, verbs, basically all taht matters to understand the purpose is business dependend. If the most basic grammer stay the same, we have to express totally different things with the same 20 words.
+
+with every project, and the way to use that language is pretty much *personnal*.
 
 
 ## Craft tools
