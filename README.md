@@ -55,7 +55,7 @@ But remember that the main thing to explain is the **What**, not the **How**. It
 
 Another bias is that alongside our peers, wa all talk a common language. Some are practicing it for years and are very familiar with it. Some are so new that there are still in the learning phase.
 
-For those new, they are still trying to figure out how to manipulate the low level tools that are provided with the language and make a good use of them. That's normal, we still should teach them that those low level tools belong in the low abstraction level.
+For those new, they are still trying to figure out how to manipulate the low level tools that are provided with the language and make a good use of them. That's not were the issue lies, it is that we don't teach them that those low level tools belong in the low abstraction level.
 For those very familiar with the language, it is no longer a pain to read some low level language detail. It is something familiar. 
 
 But if learning is just a phase and after that, we are able to read each other, there should be no issue right ? If so, why is it always so difficult to decypher another one's intention in the code ?
