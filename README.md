@@ -45,11 +45,16 @@ Some could argue that code knowledge is sufficient to produce a preliminary desi
 If you've reach this part, you are convinced that the code should be clear. But maybe you think that your code is fine. Ok I don't know you personnaly but, if you were never interested in that question, I will bet that it is not. That's fine, we're here to provide some insights.
 We will explore some few biases that we're all facing that prevent us from improving ourselves.
 
-### we're not equipped to judge ourselves / we fataly understand what we're writing
+### Quick understanding should be a long living property
 
-First bias that is quite obvious : once you're done with your code, you understand it. That may not stand, and six month later you could come back ot it scratching your head. But in the minutes that follow, you are able to explain it if need be.
-More, once you're done with the code, you should have understood the business you've been doing for a long time. Therefore, your mind has already migrated from the question 'What to do?' to 'How to do it ?'
-But remember that the main thing to explain is the **What**, not the **How**. It is hard to remember after hours or days of work on how to achieve the goal.
+First bias that is quite obvious : once you're done with your code, you understand it.
+
+It may be a temporary state, and six month later you could come back to your code scratching your head. But in the minutes that follow, you are able to explain it if need be.
+The moment you are just done, you've worked for that feature for hours or even days. You had time to understand the business and all of this is still fresh.
+Once the code is done, we should make sure that if someone else wants to understand the intent behind, he could do it in a lesser time magnitude than it took to write the code.
+If it stil take days to understand, maintenance will cost a lot of time. The problem often lies with code that rots. No effort is put in the first few feature. Codebase grows and methods tend to get fat. Features mixe together and correcting a production bug can take a few days. This is very common and is directly linked with the of discipline upon the team to assure the code can be understood in a timely manner.
+
+=> Continuous efforts should be made to assure quick understanding
 
 ### We have learned a common language
 
@@ -68,6 +73,12 @@ The reasons why we
 Our languages only possess a few *key words*. All the vocabulary, verbs, basically all taht matters to understand the purpose is business dependend. If the most basic grammer stay the same, we have to express totally different things with the same 20 words.
 
 with every project, and the way to use that language is pretty much *personnal*.
+
+
+
+
+  you're done with the code, you should have understood the business you've been doing for a long time. Therefore, your mind has already migrated from the question 'What to do?' to 'How to do it ?'
+But remember that the main thing to explain is the **What**, not the **How**. It is hard to remember after hours or days of work on how to achieve the goal.
 
 
 ## Craft tools
