@@ -38,23 +38,25 @@ Business evolution also needs some reading as we expect some analysis to be done
 
 Some could argue that code knowledge is sufficient to produce a preliminary design that allows any developper to start a new feature. Even if it true, no battle plan live through the first contact with the enemy, and if you have knowledge enough, it is because you already have read the code.
 
-=> The key point here is that reading the code is knowledge transfert.
+=> Reading the code is knowledge transfert.
 
 ## We must fight bad habits
 
 If you've reach this part, you are convinced that the code should be clear. But maybe you think that your code is fine. Ok I don't know you personnaly but, if you were never interested in that question, I will bet that it is not. That's fine, we're here to provide some insights.
 We will explore some few biases that we're all facing that prevent us from improving ourselves.
 
-### Quick understanding should be a long living property
+### Quick understanding should be a long living property of the system
 
 First bias that is quite obvious : once you're done with your code, you understand it.
 
-It may be a temporary state, and six month later you could come back to your code scratching your head. But in the minutes that follow, you are able to explain it if need be.
+But it is often a temporary state, and six month later you could come back to your code scratching your head. But in the minutes that follow, you are able to explain it if need be.
 The moment you are just done, you've worked for that feature for hours or even days. You had time to understand the business and all of this is still fresh.
 Once the code is done, we should make sure that if someone else wants to understand the intent behind, he could do it in a lesser time magnitude than it took to write the code.
-If it stil take days to understand, maintenance will cost a lot of time. The problem often lies with code that rots. No effort is put in the first few feature. Codebase grows and methods tend to get fat. Features mixe together and correcting a production bug can take a few days. This is very common and is directly linked with the of discipline upon the team to assure the code can be understood in a timely manner.
+If it still take days to understand, maintenance will cost a lot of time. The problem often lies with code that rots. No effort is put in the first few feature. Codebase grows and methods tend to get fat. Features mixe together and correcting a production bug can take a few days. This is very common and is directly linked with the of discipline upon the team to assure the code can be understood in a timely manner.
 
 => Continuous efforts should be made to assure quick understanding
+
+For that make sure to express business intent at the highest level of abtraction and carefully split your codebase into small and well defined methods.
 
 ### We have learned a common language
 
