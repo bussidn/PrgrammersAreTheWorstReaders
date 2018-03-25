@@ -10,7 +10,7 @@ But before I dive in those habits and try to highlight them, we need to agree th
 
 ## Why Writing understandable code is important
 
-### Cost of maintenance
+### Maintenance costs
 
 The big decision factor today in any industry is the money. Wether it is about adopting a new technology, frameword or internal organization, the idea is always to be more efficient and in the end, to save money. It is a bet about the future.
 
@@ -24,7 +24,7 @@ This is clearly one of the paradox of our ages : as we try to reduce technologic
 
  => Due to long living businesses and long living technologies on which are added an ever growing technological stack, the cost of maintenance is today a critical point on which every competitve company try to improve.
 
-### We must read a lot of code
+### Maintenance involves reading
 
 Now that we have realized the huge part that the cost of maintenance have these days, the only thing that remains is to be convinced that reading code is an important part of maintenance activity.
 
@@ -45,7 +45,9 @@ Some could argue that code knowledge is sufficient to produce a preliminary desi
 If you've reach this part, you are convinced that the code should be clear. But maybe you think that your code is fine. Ok I don't know you personnaly but, if you were never interested in that question, I will bet that it is not. That's fine, we're here to provide some insights.
 We will explore some few biases that we're all facing that prevent us from improving ourselves.
 
-### Quick understanding should be a long living property of the system
+### We don't think long term
+
+Quick understanding should be a long living property of the system
 
 First bias that is quite obvious : once you're done with your code, you understand it.
 
@@ -58,7 +60,7 @@ If it still take days to understand, maintenance will cost a lot of time. The pr
 
 For that make sure to express business intent at the highest level of abtraction and carefully split your codebase into small and well defined methods.
 
-### We have learned a common language
+### We have learned a false language
 
 Another bias is that alongside our peers, wa all talk a common language. Some are practicing it for years and are very familiar with it. Some are so new that there are still in the learning phase.
 
@@ -69,7 +71,7 @@ But if learning is just a phase and after that, we are able to read each other, 
 
 => Because the bias here is thinking that our programming languages, so expressive may they be, are *actually* languages.
 
-### we still don't manage to communicate intent
+### We don't communicate intent
 
 The reasons why we 
 Our languages only possess a few *key words*. All the vocabulary, verbs, basically all taht matters to understand the purpose is business dependend. If the most basic grammer stay the same, we have to express totally different things with the same 20 words.
