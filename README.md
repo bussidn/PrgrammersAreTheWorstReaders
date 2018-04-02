@@ -90,7 +90,7 @@ It made us so comfortable with the notion of 'service', explained what the servi
 
 It's us.
 
-We feel so well with this abstract notion of Service that we are not bothered to bring it erverywhere although it is a blank name which reveal nothing.
+We feel so well with this abstract notion of Service that we are not bothered bringing it erverywhere although it is a blank name which reveal nothing.
 
 That's just an example but there is many more. Each time we call a class IAccount or AccountImpl, it is a pattern that we follow that prevent us from thinking about the name we should give. Each ...
 
