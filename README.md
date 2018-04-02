@@ -92,10 +92,13 @@ It's us.
 
 We feel so well with this abstract notion of Service that we are not bothered bringing it erverywhere although it is a blank name which reveal nothing.
 
-That's just an example but there is many more. Each time we call a class IAccount or AccountImpl, it is a pattern that we follow that prevent us from thinking about the name we should give. Each ...
+That's just an example but there is many more. Each time we call a class IAccount or AccountImpl, it is a pattern that we follow that prevent us from thinking about the name we should give. Each time you call a method applyChange, or fillProperties, you're not revealing intent. You force the reader to do extra job to understand what the name implies.
 
-- we rely on external principles to do stuff ( ex : layered architecture -> service layer -> productService)
-- we are confortable using blank names as long as they belong to some superior entity / classification
+/** I chapter */
+
+
+
+=> We should see our own patterns as a toolbox in which we can pick.
 
 
 ## Craft tools
