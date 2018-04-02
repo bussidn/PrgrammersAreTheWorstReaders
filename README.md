@@ -84,6 +84,8 @@ So, make sure that the business code you create is enough to replicate the busin
 
 ### Frameworks / Architectures had the best of us
 
+- we rely on external principles to do stuff ( ex : layered architecture -> service layer -> productService)
+- we are confortable using blank names as long as they belong to some superior entity / classification
 
 
 ## Craft tools
