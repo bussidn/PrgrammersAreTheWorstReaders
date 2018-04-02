@@ -74,7 +74,7 @@ For those very familiar with the language, it is no longer a pain to read some l
 
 But if learning is just a phase and after that, we are able to read each other, there should be no issue right ? If so, why is it always so difficult to decypher another one's intention in the code ?
 
-=> Because the bias here is thinking that our programming languages, so expressive may they be, are *actually* languages.
+=> we think our programming languages, so expressive may they be, are *actually* languages.
 
 Our languages only possess a few *key words*. All the vocabulary, verbs, and basically all that really **matters to understand** the intent does not exist in that language at first place. Only the most basic grammer comes from the programming language and stay the same, we have to express every thing else differently from project to project.
 
