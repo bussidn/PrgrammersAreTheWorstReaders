@@ -40,6 +40,7 @@ Some could argue that code knowledge is sufficient to produce a preliminary desi
 
 => Reading the code is knowledge transfert.
 
+
 ## We must fight bad habits
 
 If you've reach this part, you are convinced that the code should be clear. But maybe you think that your code is fine. Ok I don't know you personnaly but, if you were never interested in that question, I will bet that it is not. That's fine, we're here to provide some insights.
@@ -94,21 +95,11 @@ We feel so well with this abstract notion of Service that we are not bothered br
 
 That's just an example but there is many more. Each time we call a class IAccount or AccountImpl, it is a pattern that we follow that prevent us from thinking about the name we should give. Each time you call a method applyChange, or fillProperties, you're not revealing intent. You force the reader to do extra job to understand what the name implies.
 
-/** I chapter */
+=> We should see our own patterns only as a toolbox in which we can pick.
 
 
+## Conclusion
 
-=> We should see our own patterns as a toolbox in which we can pick.
+I hope that you recognized yourself in this article, because I hope it can be useful. Nowing what prevent us to improving ourself is the best way to cast those bad habits aside and try to change things.
 
-
-## Craft tools
-
-### Early is cheaper
-### consider easing the load
-
-* express business logic
-* write something you want/expect to read
-* don't mix level of abstraction (https://codurance.com/2015/01/27/balanced-abstraction-principle/)
-* craft convention helps : good naming + little functions
-
-
+This is what I love about the software craftmanship community, it tries to come back to essentials and naming things correctly, making our code readable is one of the first things we learn as a programmer. It is also one of the first things we forget.
