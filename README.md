@@ -55,18 +55,26 @@ It may be the most non-negociable rule about readability. Yet, we often fail to 
 
 We will explore some few biases that we're all facing while writing code that prevent us from improving ourselves. 
 
-### We don't think long term
-
-Quick understanding should be a long living property of the system
+**Quick understanding should be a long living property of the system**
 
 First bias that is quite obvious : once you're done with your code, you understand it.
 
-But it is often a temporary state, and six month later you could come back to your code scratching your head. But in the minutes that follow, you are able to explain it if need be.
-The moment you are just done, you've worked for that feature for hours or even days. You had time to understand the business and all of this is still fresh.
-Once the code is done, we should make sure that if someone else wants to understand the intent behind, he could do it in a lesser time magnitude than it took to write the code.
-If it still take days to understand, maintenance will cost a lot of time. The problem often lies with code that rots. No effort is put in the first few feature. Codebase grows and methods tend to get fat. Features mixe together and correcting a production bug can take a few days. This is very common and is directly linked with the of discipline upon the team to assure the code can be understood in a timely manner.
+But it is often a very **temporary** state.
+It's not rare to come six month later back to your code and scratch your head trying to read it again.
 
-=> Continuous efforts should be made to assure quick understanding
+But in the minutes that follow, you are able to explain it if need be. The moment you are just done, you've worked for that feature for hours or even days.
+You had time to understand the business. All of this is still fresh.
+
+This is a very **short-term** vision.
+
+Once the code is done, we should make sure that if someone else wants to understand the intent behind, he could do it in a lesser time magnitude than it took to write the code.
+If it still take days to understand, maintenance will cost a lot of time.
+
+The problem often lies with the fact that we let the code **rot**.
+No specific effort is put in the first few feature. Codebase grows and methods tend to get fat. Features mix together and correcting a production bug can take a few days.
+This scenario is very common and is directly linked with the lack of discipline in the team to assure the code can be understood in a **short amount of time**.
+
+=&gt; Continuous efforts should be made to assure quick understanding
 
 For that make sure to express business intent at the highest level of abtraction and carefully split your codebase into small and well defined methods.
 
