@@ -45,7 +45,9 @@ And if you have an accurate vision of all these litlle changes, then you must ha
 
 ## We must fight bad habits
 
-If you've reach this part, you are convinced that the code should be clear. But maybe you think that your code is fine. Ok I don't know you personnaly but, if you were never interested in the clean code question, I will bet that yhere is room for improvment. That's fine, we're here to provide some insights.
+If you've reach this part, you are convinced that the code should be clear. But maybe you think that your code is fine.
+Ok I don't know you personnaly but, if you were never interested in the clean code question, I will bet that yhere is room for improvment.
+ANd that's fine, first because every one is subject to improvment and second because we're here to provide some insights.
 
 => We should communicate intent
 
