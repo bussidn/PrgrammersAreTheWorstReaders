@@ -53,7 +53,7 @@ ANd that's fine, first because every one is subject to improvment and second bec
 
 It may be the most non-negociable rule about readability. Yet, we often fail to comply. It may also be the hardest to follow.
 
-We will explore some few biases that we're all facing that prevent us from improving ourselves. 
+We will explore some few biases that we're all facing while writing code that prevent us from improving ourselves. 
 
 ### We don't think long term
 
