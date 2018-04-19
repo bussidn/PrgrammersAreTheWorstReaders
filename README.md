@@ -92,11 +92,9 @@ For those already comfortable with the language, it is no longer a pain to read 
 But if learning is just a phase and after that, we are able to read each other, there should be no issue right ? If so, why is it always so difficult to decypher another one's intention in the code ?
 
 There are multiple reasons for that :
-* first, it is **hard** to keep something simple when designing everything at the lowest level.
-* second, we always have an important part of developpers in the learning phase due to the increasing need for developpers.
-* and lastly :
-
-=> we think our programming languages, so expressive may they be, are *actually* languages.
+* It is **hard** to keep something simple when designing everything at the lowest level.
+* We always have an important part of developpers in the learning phase due to the increasing need for developpers.
+* **we think our programming languages, so expressive may they be, are *actually* languages.**
 
 There may be numerous other reasons but I will only speaking about the last one here.
 
