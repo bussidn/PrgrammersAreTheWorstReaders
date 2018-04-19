@@ -104,19 +104,23 @@ More, the way to use that language is often very *personnal*.
 
 So, make sure that the business code you create is enough to replicate the business language and that your **code** is as expressive as the business is. This is why DDD and its ubiquitous language is so appriciated once you tasted it. It make the whole team agreed on the vocabulary it should learn and what is **readible**.
 
+
 ### We are confortable with patterns
 
 One of the things that we learned to cherish is our preferred and usual patterns. We made ourselves familiar with abstract concepts that are meant to help us in any project.
-Take the layered architecture pattern for instance. It is just a tool with flaw and benefits and if you choose to adopt it, it should bring what is promised. But it has been so predominant that many experienced developpers I meet today cannot hink out of the patterns it brings with it.
-It made us so comfortable with the notion of 'service', explained what the service layer is that it is a word that I often encounter. The architecture is not to blame, it is a tool. What is to fight is the confort zone we like to be in. All I see are ProductService going along with anemic classes. All I see is a lot of coupling, and low cohesion. That's not the architecture to blame.
+
+Take the layered architecture pattern for instance. It is just a tool with flaw and benefits and if you choose to adopt it, it should bring what is promised.
+But it has been so predominant that many experienced developpers I meet today cannot hink out of the patterns it brings with it.
+It made us so comfortable with the notion of 'service', explained what the service layer is that it is a word that I often encounter.
+The architecture is not to blame, it is a tool. What is to fight is the confort zone we like to be in. All I see are ProductService going along with anemic classes. All I see is a lot of coupling, and low cohesion. That's not the architecture to blame.
 
 It's us.
 
 We feel so well with this abstract notion of Service that we are not bothered bringing it erverywhere although it is a blank name which reveal nothing.
 
-That's just an example but there is many more. Each time we call a class IAccount or AccountImpl, it is a pattern that we follow that prevent us from thinking about the name we should give. Each time you call a method applyChange, or fillProperties, you're not revealing intent. You force the reader to do extra job to understand what the name implies.
+That's just an example but there is many more. Each time we call a class *IAccount* or *AccountImpl*, it is a pattern that we follow that prevent us from thinking about the name we should give. Each time you call a method *applyChange*, or *fillProperties*, you're not revealing intent. You force the reader to do extra job to understand what the name implies.
 
-=> We should see our own patterns only as a toolbox in which we can pick.
+**We should see our own patterns only as a toolbox in which we can pick.**
 
 
 ## Conclusion
