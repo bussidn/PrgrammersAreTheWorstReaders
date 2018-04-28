@@ -55,6 +55,8 @@ It may be the most non-negociable rule about readability. Yet, we often fail to 
 
 We will explore some few biases that we're all facing while writing code that prevent us from improving ourselves. 
 
+### We don't think long term
+
 **Quick understanding should be a long living property of the system**
 
 First bias that is quite obvious : once you're done with your code, you understand it.
