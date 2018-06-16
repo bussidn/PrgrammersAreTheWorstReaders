@@ -40,7 +40,7 @@ Some could argue that code knowledge is sufficient to produce a preliminary desi
 
 And if you have an accurate vision of all these litlle changes, then you must have read the code a lot.
 
-=> Reading the code is all bout knowledge transfert.
+=> Reading and writing code is foremostly about knowledge transfert.
 
 
 ## We must fight bad habits
