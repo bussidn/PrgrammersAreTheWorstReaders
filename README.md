@@ -60,7 +60,7 @@ We will explore some few biases that we're all facing while writing code that pr
 
 **Quick understanding should be a long living property of the system**
 
-First bias that is quite obvious : once you're done with your code, you understand it.
+First bias that is quite simple : once you're done with your code, you understand it.
 
 But it is often a very **temporary** state.
 It's not rare to come six month later back to your code and scratch your head trying to read it again.
