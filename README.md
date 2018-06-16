@@ -84,8 +84,7 @@ For that make sure to express business intent at the highest level of abtraction
 
 Another bias is that alongside our peers, we all talk a common language. Some are practicing it for years and are very familiar with it. Some are so new that there are still in the learning phase.
 
-For those new, they are still trying to figure out how to manipulate the low level tools that are provided with the language and make a good use of them. That perfectly normal.
-That's not were the issue lies.
+For those new, they are still trying to figure out how to manipulate the low level tools that are provided with the language and make a good use of them. That's not generally where the issue lies.
 
 The problem is that **we do not teach them that those low level tools belong in the low abstraction level.**
 
