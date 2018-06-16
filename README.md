@@ -50,7 +50,7 @@ Ok I don't know you personnaly but, if you were never interested in the clean co
 
 But First, I would like to express the primary rule I try to follow when thinking in term of readability :
 
-=> We should communicate intent
+=> We should communicate **intent**
 
 It may be the most non-negociable rule about readability. Yet, we often fail to comply. It may also be the hardest to follow.
 
