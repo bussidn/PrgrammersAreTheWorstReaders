@@ -32,7 +32,7 @@ That should not be the hardest part for anyone with some experience in the field
 
 The two main activities are : business evolution and error correction. Both those activities require reading the code a lot.
 
-Error correction is the most obvious, we have to connect any error message, stack log or behavior description with the idea we have about how the code should behave by **reading the code**. Or worse, by debugging, which is just reading the code very carefully with some state display.
+Error correction is the most obvious, we have to confront any error message, stack log or behavior description with the idea we have about how the code should behave by **reading the code**. Or worse, by debugging, which is just reading the code very carefully with some state display.
 
 Business evolution also needs some reading as we expect some analysis to be done on which part of the code should evolve, become public, be refactored and so on. The relation here is more subtil as the documentation should be enough for that part, but, is it really ? If you have something like living documentation then your code is already fine enough and you don't even have to read this article much longer. If not, then your truth is not your documentation, it's your code. You will need to read it in any case.
 
