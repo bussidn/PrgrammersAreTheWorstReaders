@@ -65,8 +65,7 @@ First bias that is quite simple : once you're done with your code, you understan
 But it is often a very **temporary** state.
 It's not rare to come six month later back to your code and scratch your head trying to read it again.
 
-But in the minutes that follow, you are able to explain it if need be. The moment you are just done, you've worked for that feature for hours or even days.
-You had time to understand the business. All of this is still fresh.
+The moment you're done with your code, you've worked for that feature for hours or even days, you had time to understand the business, you are able to explain it if need be because everything is fresh.
 
 This is a very **short-term** vision.
 
