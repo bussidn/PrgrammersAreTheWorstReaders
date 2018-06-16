@@ -111,7 +111,7 @@ So, make sure that the business code you create is enough to replicate the busin
 One of the things that we learned to cherish is our preferred and usual patterns. We made ourselves familiar with abstract concepts that are meant to help us in any project.
 
 Take the layered architecture pattern for instance. It is just a tool with flaw and benefits and if you choose to adopt it, it should bring what is promised.
-But it has been so predominant that many experienced developpers I meet today cannot hink out of the patterns it brings with it.
+But it has been so predominant that many experienced developpers I meet today are prisonners of some thinking patterns the model brings with it.
 It made us so comfortable with the notion of 'service', explained what the service layer is that it is a word that I often encounter.
 The architecture is not to blame, it is a tool. What is to fight is the confort zone we like to be in. All I see are ProductService going along with anemic classes. All I see is a lot of coupling, and low cohesion. That's not the architecture to blame.
 
