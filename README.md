@@ -86,9 +86,9 @@ Another bias is that alongside our peers, we all talk a common language. Some ar
 
 For those new, they are still trying to figure out how to manipulate the low level tools that are provided with the language and make a good use of them. That's not generally where the issue lies.
 
-The problem is that **we do not teach them that those low level tools belong in the low abstraction level.**
+The problem is that **we do not learn that those low level tools belong in the lower levels of the code in term of abstraction.**
 
-For those already comfortable with the language, it is no longer a pain to read some simple low level language detail. It is something familiar.
+For those already comfortable with the language, it is no longer a pain to read some any low level language detail. All those for loops, try/catch blocks and nested if statements are already very familiar.
 
 But if learning is just a phase and after that, we are able to read each other, there should be no issue right ? If so, why is it always so difficult to decypher another one's intention in the code ?
 
