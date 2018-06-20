@@ -1,5 +1,5 @@
-<div style="display: block; margin-left: auto; margin-right: auto">test</div>
 ![crafter tools](https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/craft_tools.png?raw=true)
+
 # Programmers Are The Worst Readers
 
 Apologies for such a title. The purpose is not to offend you but to draw some attention with a low trick. All I can hope is that this attention just drawn will be put to good use.
