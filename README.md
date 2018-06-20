@@ -100,7 +100,7 @@ For those already comfortable with the language, it is no longer a pain to read 
 
 But if learning is just a phase and after that, we are able to read each other, there should be no issue right ? If so, why is it always so difficult to decypher another one's intention in the code ?
 
-![incomprehension](https://c1.staticflickr.com/9/8023/7658298768_e4c2c2635e_b.jpg)
+![incomprehension](https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/incomprehension.png)
 
 There are multiple reasons for that :
 * It is **hard** to keep something simple when designing everything at the lowest level.
