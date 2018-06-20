@@ -24,7 +24,7 @@ This is clearly one of the paradox of our ages : as we try to reduce technologic
 
  => Due to long living businesses and long living technologies on which are added an ever growing technological stack, the cost of maintenance is today a critical point on which every competitve company try to improve.
  
- ![Costs](https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/costs.png?raw=true)
+ <img alt="Costs" style="float: center; width :100px;" src="https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/costs.png">
 
 ### Maintenance involves reading
 
