@@ -62,7 +62,7 @@ It may be the most non-negociable rule about readability. Yet, we often fail to 
 
 We will explore some few biases that we're all facing while writing code that prevent us from improving ourselves and making our intent clear.
 
-![Enlightened Brain-bulb](https://www.healththoroughfare.com/wp-content/uploads/2018/04/habits-damage-brain.jpg)
+![Enlightened Brain-bulb](https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/brain-bulb.png)
 
 ### We don't think long term
 
