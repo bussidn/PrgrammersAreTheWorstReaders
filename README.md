@@ -24,7 +24,7 @@ This is clearly one of the paradox of our ages : as we try to reduce technologic
 
  => Due to long living businesses and long living technologies on which are added an ever growing technological stack, the cost of maintenance is today a critical point on which every competitve company try to improve.
  
- ![Mainteance](https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/maintenance.png?raw=true)
+ ![Costs](https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/costs.png?raw=true)
 
 ### Maintenance involves reading
 
@@ -33,6 +33,8 @@ Now that we have realized the huge part that the cost of maintenance have these 
 That should not be the hardest part for anyone with some experience in the field. For those who want more justification on that point, let me quickly list activities made by programmers during the mintenance phase.
 
 The two main activities are : business evolution and error correction. Both those activities require reading the code a lot.
+
+ ![Mainteance](https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/maintenance.png?raw=true)
 
 Error correction is the most obvious, we have to confront any error message, stack log or behavior description with the idea we have about how the code should behave by **reading the code**. Or worse, by debugging, which is just reading the code very carefully with some state display.
 
