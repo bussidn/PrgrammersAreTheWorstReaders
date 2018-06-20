@@ -23,6 +23,8 @@ From that time, the need for software developpers have increased tremendously. T
 This is clearly one of the paradox of our ages : as we try to reduce technological noise with languages that are more and more expressive, we also try to automate more and more things, increasing the weight of that noise.
 
  => Due to long living businesses and long living technologies on which are added an ever growing technological stack, the cost of maintenance is today a critical point on which every competitve company try to improve.
+ 
+ ![Mainteance](https://cdn.pixabay.com/photo/2016/01/20/10/52/maintenance-1151312_960_720.png)
 
 ### Maintenance involves reading
 
