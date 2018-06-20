@@ -54,7 +54,9 @@ But First, I would like to express the primary rule I try to follow when thinkin
 
 It may be the most non-negociable rule about readability. Yet, we often fail to comply. It may also be the hardest to follow.
 
-We will explore some few biases that we're all facing while writing code that prevent us from improving ourselves and making our intent clear. 
+We will explore some few biases that we're all facing while writing code that prevent us from improving ourselves and making our intent clear.
+
+![Enlightened Brain-bulb](https://www.healththoroughfare.com/wp-content/uploads/2018/04/habits-damage-brain.jpg)
 
 ### We don't think long term
 
