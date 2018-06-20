@@ -34,7 +34,7 @@ That should not be the hardest part for anyone with some experience in the field
 
 The two main activities are : business evolution and error correction. Both those activities require reading the code a lot.
 
- ![Mainteance](https://cdn.pixabay.com/photo/2016/01/20/10/52/maintenance-1151312_960_720.png)
+<img alt="Mainteance" style="align: center; width :100px;" src="https://cdn.pixabay.com/photo/2016/01/20/10/52/maintenance-1151312_960_720.png">
 
 Error correction is the most obvious, we have to confront any error message, stack log or behavior description with the idea we have about how the code should behave by **reading the code**. Or worse, by debugging, which is just reading the code very carefully with some state display.
 
