@@ -1,5 +1,5 @@
 ![crafter tools](https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/craft_tools.png?raw=true)
-<div style="display: block; margin-left: auto; margin-right: auto">test</div>
+
 # Programmers Are The Worst Readers
 
 Apologies for such a title. The purpose is not to offend you but to draw some attention with a low trick. All I can hope is that this attention just drawn will be put to good use.
@@ -26,7 +26,7 @@ This is clearly one of the paradox of our ages : as we try to reduce technologic
 
  => Due to long living businesses and long living technologies on which are added an ever growing technological stack, the cost of maintenance is today a critical point on which every competitve company try to improve.
  
- <div><img alt="Costs" style="display: block; margin-left: auto; margin-right: auto width :100px;" src="https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/costs.png" /></div>
+ ![Costs](https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/costs.png)
 
 ### Maintenance involves reading
 
@@ -36,7 +36,7 @@ That should not be the hardest part for anyone with some experience in the field
 
 The two main activities are : business evolution and error correction. Both those activities require reading the code a lot.
 
-<img alt="Mainteance" style="align: center; width :100px;" src="https://cdn.pixabay.com/photo/2016/01/20/10/52/maintenance-1151312_960_720.png">
+ ![Maintenance](https://github.com/bussidn/ProgrammersAreTheWorstReaders/blob/master/maintenance.png)
 
 Error correction is the most obvious, we have to confront any error message, stack log or behavior description with the idea we have about how the code should behave by **reading the code**. Or worse, by debugging, which is just reading the code very carefully with some state display.
 
