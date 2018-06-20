@@ -117,7 +117,7 @@ So, make sure that the business code you create is enough to replicate the busin
 
 ### We are confortable with patterns
 
-![comfort](https://images.pexels.com/photos/265986/pexels-photo-265986.jpeg?cs=srgb&dl=baby-blanket-infant-265986.jpg&fm=jpg  =100x20)
+![comfort](https://images.pexels.com/photos/265986/pexels-photo-265986.jpeg?cs=srgb&dl=baby-blanket-infant-265986.jpg&fm=jpg)
 
 One of the things that we learned to cherish is our preferred and usual patterns. We made ourselves familiar with abstract concepts that are meant to help us in any project.
 
