@@ -1,3 +1,4 @@
+![crafter tools](https://cdn.pixabay.com/photo/2015/05/12/18/46/iron-764473_960_720.jpg)
 # Programmers Are The Worst Readers
 
 Apologies for such a title. The purpose is not to offend you but to draw some attention with a low trick. All I can hope is that this attention just drawn will be put to good use.
